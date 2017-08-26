@@ -30,8 +30,7 @@ sudo su
 * init sdk
 
 ```
-cd sdk
-./init.sh
+bash init.sh
 ```
 
 ### Step 2: setup the yiliao poc
@@ -46,5 +45,5 @@ sudo su
 
 ## Test the sample program
 ```
-http://127.0.0.1:3389
+http://127.0.0.1:10389
 ```
