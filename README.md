@@ -21,7 +21,7 @@
 * start sdk
 
 ```
-cd sdk
+cd ~/poc/sdk
 sudo su
 ./runApp.sh
 ```
@@ -30,6 +30,7 @@ sudo su
 * init sdk
 
 ```
+cd ~/poc/sdk
 bash init.sh
 ```
 
@@ -38,7 +39,7 @@ bash init.sh
 ##### Terminal Window 3
 
 ```
-cd yiliao
+cd ~poc/yiliao
 sudo su
 ./runApp.sh
 ```
